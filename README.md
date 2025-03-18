@@ -1,7 +1,7 @@
 # Simulation and Analysis of Optical Communication Systems
 
 ## Overview
-This repository contains code and resources for simulating **optical communication systems**, focusing on signal modulation, and transmission through optical fiber. The simulations include **Pulse Amplitude Modulation (PAM)**, using a Mach-Zehnder Modulator (MZM), simulating signal transmission through a linear fiber channel, and analyzing the impact of noise and dispersion. In this simulation, a digital signal is generated and modulated. Then we apply a None-Return-to-Zero (NRZ) pulse shaping and transmit it through an optical fiber. At the receiver, the signal is detected using a photodiode and processed to determine its quality. Key performance metrics, including **Bit Error Rate (BER)**, are computed and compared with theoretical values.
+This repository contains code and resources for simulating **optical communication systems**, focusing on signal modulation, and transmission through optical fiber. The simulation includes **Pulse Amplitude Modulation (PAM)**, using a Mach-Zehnder Modulator (MZM), simulating signal transmission through a linear fiber channel, and analyzing the impact of noise and dispersion. In this simulation, a digital signal is generated and modulated. Then we apply a None-Return-to-Zero (NRZ) pulse shaping and transmit it through an optical fiber. At the receiver, the signal is detected using a photodiode and processed to determine its quality. Key performance metrics, including **Bit Error Rate (BER)**, are computed and compared with theoretical values.
 
 ---
 
